@@ -14,13 +14,11 @@ brew install git
 
 ``` 
 git clone https://github.com/pkreyenhop/homebrew.git
-
 ```
 
 4. install everything
 
 ```
 cd homebrew
-brew bundle`
-
+brew bundle
 ``` 
