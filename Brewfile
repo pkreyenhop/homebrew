@@ -12,7 +12,7 @@ brew "git"
 brew "hyperspec"
 brew "ispell"
 brew "sbcl"
-brew "d12frosted/emacs-plus/emacs-plus@27", link: false
+brew "d12frosted/emacs-plus/emacs-plus@27", link: true
 cask "font-source-code-pro"
 cask "font-source-han-sans"
 cask "font-source-han-serif"
